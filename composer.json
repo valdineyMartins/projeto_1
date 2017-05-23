@@ -10,14 +10,14 @@
   "authors":[
     {
       "name":"Valdiney Martins",
-      "email:":"valdineymsouza@gmail.com"
+      "email":"valdineymsouza@gmail.com"
     }
 
   ],
   "minimum-stability":"dev",
   "autoload":{
     "psr-4":{"valdiney\\son\\":"App/Valdiney/son"}
-  }
+  },
   "config":{
     "bin-dir":"bin/"
   }
